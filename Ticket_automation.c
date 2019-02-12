@@ -1,6 +1,7 @@
 /*
         SELMAN BURAK KARAGÖL
-        18010011062
+
+        TICKET AUTOMATION WITH NO FILES,STRUCT,POINTERS
 */
 
 #include <stdio.h>
