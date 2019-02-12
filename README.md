@@ -1,3 +1,3 @@
 # C.project
 
-## Ticket Automation
+## Ticket automation with no files,struct,pointers for homework
